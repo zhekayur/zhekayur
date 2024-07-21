@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Yevhen Yurkevych   
 - 👀 I’m interested in SQL, Python, JS
-- 🌱 I’m currently learning Pthon
-- 💞️ I’m looking to collaborate on Python Junior 
-- 📫 How to reach me e-mail - zhekayurkevych@ukr.net 
+- 🌱 I’m currently continue to learning Python
+- 📫 How to reach me e-mail - zhekayurkevych@gmail.com
 
 <!---
 zhekayur/zhekayur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
