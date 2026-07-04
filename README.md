@@ -19,4 +19,4 @@ I'm currently focused on advanced Python libraries for data transformation and m
 I am open to consulting projects in data tracking implementation and cloud automation.
 
 * **Email:** zhekayurkevych@gmail.com
-* **LinkedIn:** https://www.linkedin.com/in/yevhen-yurkevych-bb6ab9253/
+* **LinkedIn:** https://www.linkedin.com/in/yevhen-yurkevych/
